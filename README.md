@@ -1,4 +1,4 @@
-# Hi there 👋
-🧑‍🎓 I’m currently studying at Japan Digital University
-💻 I’m learning HTML, CSS, JavaScript, React.js, Redux, and Node.js  
-🌐 My Portfolio: [https://tukhtamishev-dev.netlify.app]
+### 👨‍🎓 About Me
+- 🎓 Currently studying at **Japan Digital University**
+- 💻 Learning: `HTML`, `CSS`, `JavaScript`, `React.js`, `Redux`, `Node.js`
+- 🌐 Portfolio: [tukhtamishev-dev.netlify.app](https://tukhtamishev-dev.netlify.app)
